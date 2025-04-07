@@ -1,54 +1,93 @@
-# Capsuly: Some Things Are Worth Waiting For 🌟
 
-**Capsuly** is your personal digital time capsule—except instead of burying it in the backyard, you store it in the cloud! 🌥️ It lets you create and lock away messages, memories, photos, videos, and even predictions, only to be unlocked at the perfect moment in the future. It’s like sending a message to your future self, or a fun surprise to someone else—way cooler than a letter in a bottle! 🕰️
+# Sharelock: Digital Memory Preservation Platform
 
----
+## Executive Summary
 
-## How It Works:
+Sharelock is a digital memory preservation platform that allows users to create, store, and share personal time capsules containing various types of content. These capsules are securely sealed until a predetermined future date or event, at which point they're revealed to create meaningful, nostalgic experiences. The platform combines modern cloud storage with thoughtful user experience to transform how people preserve memories across time.
 
-1. **Create Your Capsule**  
-   Add whatever you want to save—whether it’s a hilarious video, a heartfelt message, or a wild prediction about the future. Make it personal, make it fun!
+## Introduction
 
-2. **Set the Reveal Date**  
-   Choose when you want your capsule to be opened—could be next year, in 5 years, or even 20 years from now. The future is in your hands!
+### Vision & Purpose
 
-3. **Keep It Secret, or Share It**  
-   Want to keep it to yourself? Totally fine. Want to share it with your bestie, family, or the whole world? Go for it. You control who gets to see it!
+In an increasingly digital world, our memories, thoughts, and experiences are scattered across devices, platforms, and accounts. Sharelock provides a deliberate, intentional way to preserve specific moments for future rediscovery, creating bridges across time between our past and future selves, or between generations.
 
-4. **Wait for the Magic**  
-   When the time comes, your capsule opens, and it’s like receiving a surprise gift from the past! 🎁 Whether it’s your future self, your friends, or the world—it’s always worth the wait.
+### Core Concept
 
----
+Users create digital time capsules by uploading content (notes, images, links, videos), setting a reveal date, and "sealing" the capsule. The content remains securely stored but inaccessible until the designated time arrives, at which point it becomes viewable to the creator and any designated recipients.
 
-## Why You’ll Love Capsuly:
+### Capsule Creation
 
-- **Preserve the Moment**  
-   Got a memory you want to save forever? Want to see how spot-on your predictions were? **Capsuly** makes sure those moments are saved for the future, no matter what happens.
+Users can create time capsules with:
+- Basic information (title, description, category)
+- Customizable content (notes, links, images, videos)
+- Tagging system for organization
+- Flexible reveal timing options
+- Privacy settings (private, public, or shared)
 
-- **Leave a Legacy**  
-   Want to share your wisdom, love, or funny thoughts with future generations? You can create capsules that will only be unlocked *after* you're gone. It’s like a digital time machine for your legacy. 🚀
+### Reveal Mechanics
 
-- **Make the Future Fun**  
-   Puzzles, challenges, surprises—you can make your capsules as mysterious and fun as you like. It’s a game and a memory bank all rolled into one!
+Time capsules are revealed through:
+- Automatic reveal on a specified future date
+- Post-mortem reveal option for legacy preservation
+- Countdown timers for anticipation building
+- Notification system for reveal alerts
 
-- **Control Your Privacy**  
-   Keep it private or go public—**Capsuly** puts you in the driver’s seat of who gets to experience your time capsule.
+### Privacy & Sharing
 
----
+Users control their content with:
+- Multiple visibility levels (private, public, shared)
+- Selective sharing with specific individuals
+- Encryption for private content
+- Row-level security at the database layer
 
-## Why Capsuly Rocks:
+### Discovery & Exploration
 
-It’s not just about saving things for later; it’s about creating excitement for the future! You get to send messages, memories, and surprises to a future you, or a future someone else, in a way that’s exciting, fun, and totally unique. 🚀
+The platform facilitates discovery through:
+- Public capsule exploration
+- Category-based browsing
+- Tag-based search
+- Featured capsule highlighting
 
-Ready to leave a message for your future self? Or surprise someone else with a capsule they’ll never see coming? With **Capsuly**, the future just got a lot more interesting.
+## User Experience
 
----
+### User Journey
 
-## Get Involved
+1. **Account Creation**: Simple email/password or social authentication
+2. **Dashboard**: Personal hub showing all created capsules
+3. **Capsule Creation**: Step-by-step wizard interface for creating capsules
+4. **Content Management**: Intuitive tools for organizing and editing capsules
+5. **Waiting Period**: Secure storage during the sealed period
+6. **Reveal Experience**: Celebratory interface for opening capsules
+7. **Sharing & Reflection**: Tools for sharing and reflecting on revealed content
 
-**Capsuly** is still evolving, and we’d love your input to help shape the future of this project!  
-Join our [Discord Community](https://discord.gg/aQDEgHD38D) to get updates, early access, and share your ideas.
+### Interface Design
 
----
+Sharelock features a clean, intuitive interface with:
+- Responsive design for all device sizes
+- Accessibility compliance
+- Nostalgic yet modern aesthetic
+- Progressive enhancement for varying connection speeds
 
-**What will you send to the future?**
+## Security & Privacy
+
+### Data Protection
+
+- End-to-end encryption for sensitive content
+- Row-level security policies in the database
+- Regular security audits and updates
+- GDPR and privacy law compliance
+
+## Business Model
+
+Sharelock operates on a freemium model:
+- **Free Tier**: Basic capsule creation with limited storage
+- **Premium Subscriptions**: Enhanced storage, features, and customization
+- **One-time Payments**: Special capsule types or preservation options
+
+### Long-term Vision
+
+Sharelock aims to become the definitive platform for intentional digital preservation, creating meaningful connections between past and future while respecting privacy and security.
+
+## Conclusion
+
+Sharelock represents a thoughtful approach to digital preservation in an age of information overload. By creating intentional time bridges, the platform helps users preserve what matters most and rediscover it at meaningful moments in the future.
